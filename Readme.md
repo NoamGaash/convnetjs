@@ -1,5 +1,5 @@
 
-# ConvNetJS
+# ConvNetJS !
 
 ConvNetJS is a Javascript implementation of Neural networks, together with nice browser-based demos. It currently supports:
 
